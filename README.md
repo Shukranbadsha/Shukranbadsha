@@ -38,5 +38,6 @@
 
 
 📫 **Let's Connect**  
-https://www.linkedin.com/in/shukran-badshah-59398235a/
+rayyanbadshah3@gmail.com
+
 
