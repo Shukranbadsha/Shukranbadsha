@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Rayyan badshah
+# 👋 Hey, I'm Shukran Badshah
 
 💡 Passionate about backend development and creating clean, scalable systems.  
 🚀 Constantly learning and experimenting with code to bring ideas to life.  
