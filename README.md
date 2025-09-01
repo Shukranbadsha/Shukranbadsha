@@ -38,6 +38,6 @@
 
 
 📫 **Let's Connect**  
-rayyanbadshah3@gmail.com
+https://www.linkedin.com/in/shukran-badshah-59398235a/?originalSubdomain=pk
 
 
