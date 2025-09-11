@@ -12,6 +12,8 @@
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="NPM" /> <img src="https://static-00.iconduck.com/assets.00/postman-icon-512x512-1nywgq7m.png" height="50" alt="Postman" /> <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1626263180/brand/2021/logos/cloudinary_logo_blue_0720_1x.png" height="50" alt="Cloudinary" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/multer/multer-original.svg" height="50" alt="Multer" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="50" alt="Joi (placeholder icon)" /> </p>
 🔹 Currently Exploring
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="Redis" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="50" alt="GraphQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js" /> </p>
+
+
 ---
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shukranbadsha&show_icons=true&theme=radical)
 
